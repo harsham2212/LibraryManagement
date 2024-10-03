@@ -34,7 +34,7 @@ namespace LibraryManagement.Data
                 {
                     BookId = 3,
                     Title = "Mastering ASP.NET Core",
-                    Author = "We Gentel",
+                    Author = "Web Gentel",
                     ISBN = "978-0451616235",
                     PublishedDate = new DateTime(2022, 11, 22),
                     IsAvailable = true
